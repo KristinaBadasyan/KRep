@@ -3,4 +3,10 @@ Araraty
 Nor popoxutyun
 
 a xoxa min haskac li pahooooo :D
+<<<<<<< HEAD
+333
+=======
+ New Data
+ 33333
+>>>>>>> story/New2
 333
